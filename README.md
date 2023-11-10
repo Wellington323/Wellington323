@@ -45,7 +45,7 @@ Um curso para ser indicado para quem deseja aprender Java:
      Além de ter adquirido mais de 66 certificado na área da programação. 
     <br><br>
 <strong>Meus próximos passos são: </strong><br>
-<p>1.Firmar como uma desenvolvedor de sucesso; </p>
+<p>1.Firmar como um desenvolvedor de sucesso; </p>
 <p>2.Criar ferramentas para conectar amigos que também queiram entrar para a área tech; </p>
 <p>3.Aprender mais sobre Microsserviços, Docker , AWS e Cloud.</p>
 
@@ -73,7 +73,7 @@ Um curso para ser indicado para quem deseja aprender Java:
     
 </div>
 
-<h2 align="center"> COMO CHEGAR ATÉ MIM </h2>
+<h2 align="center"> EM QUAL REDE ME ENCONTRAR </h2>
  
 
 <a href="https://linkedin.com/in/wellington-a-da-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
