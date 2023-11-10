@@ -45,7 +45,7 @@ Um curso para ser indicado para quem deseja aprender Java:
      Além de ter adquirido mais de 66 certificado na área da programação. 
     <br><br>
 <strong>Meus próximos passos são: </strong><br>
-<p>1.Firmar como uma desenvolvedora de sucesso; </p>
+<p>1.Firmar como uma desenvolvedor de sucesso; </p>
 <p>2.Criar ferramentas para conectar amigos que também queiram entrar para a área tech; </p>
 <p>3.Aprender mais sobre Microsserviços, Docker , AWS e Cloud.</p>
 
