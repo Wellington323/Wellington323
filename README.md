@@ -48,6 +48,8 @@ Um curso para ser indicado para quem deseja aprender Java:
 <p>1.Firmar como um desenvolvedor de sucesso; </p>
 <p>2.Criar ferramentas para conectar amigos que também queiram entrar para a área tech; </p>
 <p>3.Aprender mais sobre Microsserviços, Docker , AWS e Cloud.</p>
+<p>4.Estou de acordo a aprender outros sistemas e tecnologias de acordo com a contratação da empresa.</p>
+
 
 **********
 
