@@ -24,6 +24,32 @@ Here are some ideas to get you started:
      
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
+Sobre
+
+Um profissional movido a desafios, sendo integro e prudente no que faço. Gosto de realizar trabalho em equipe, sendo prestativo e eficiente para as tarefas designadas. Já trabalhei como assistente técnico de telecomunicação, mas estou buscando ingressar no mercado de desenvolvimento de softwares. Busco oportunidade que me possibilite aplicar os conhecimentos adquiridos até o momento e que me dê perspectiva de aprendizado e crescimento para que assim eu possa ajudar a empresa a crescer e me desenvolver mais na área de TI.
+
+Um curso para ser indicado para quem deseja aprender Java:
+
+  Um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> Finalizei outros cursos na área, como:
+
+<ul><strong> 
+  <li>🛩 Plataforma DIo, </li>
+  <li>🛩 Plataforma Udemy, </li>
+  <li>👩🏻‍🚀 Front-end - Programaria,</li>
+  <li>🚀 Java Web Full-Stack / DevSuperior / Professor / Nelio ALves,</li>
+  <li>🚀 Formação Java Web Full-Stack / JDev - Treinamento / Professor / Alex,</li>
+  <li>🏍 Start da Capgemini - Trilha Java,</li>
+  </strong>
+</ul>
+     Aprendi muito mais do que eu acreditava ser possível me dedicando aos estudos, isso me deixa muito feliz. 
+     Além de ter adquirido mais de 66 certificado na área da programação. 
+    <br><br>
+<strong>Meus próximos passos são: </strong><br>
+<p>1.Firmar como uma desenvolvedora de sucesso; </p>
+<p>2.Criar ferramentas para conectar amigos que também queiram entrar para a área tech; </p>
+<p>3.Aprender mais sobre Microsserviços, Docker , AWS e Cloud.</p>
+
+**********
 
 
   <div  align="center">
