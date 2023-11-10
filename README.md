@@ -46,3 +46,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40"/> 
     
 </div>
+
+<h2 align="center"> COMO CHEGAR ATÉ MIM </h2>
+ 
+
+<a href="https://linkedin.com/in/wellington-a-da-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
