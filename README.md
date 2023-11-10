@@ -33,6 +33,7 @@ Um curso para ser indicado para quem deseja aprender Java:
   Um curso gratuito que recomendo muito é o Maratona Java do DevDojo  https://youtu.be/VKjFuX91G5Q <br> Finalizei outros cursos na área, como:
 
 <ul><strong> 
+  <li>🛩 Plataforma Algar Works, </li>
   <li>🛩 Plataforma DIo, </li>
   <li>🛩 Plataforma Udemy, </li>
   <li>👩🏻‍🚀 Front-end - Programaria,</li>
